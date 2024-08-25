@@ -17,14 +17,14 @@ The Bus Reservation System is a Java-based application that allows users to regi
 
 1. **Create Database and Tables**
 2. **Java Classes**
-    User: Represents a user in the system.
-    Bus: Represents a bus in the system.
-    Booking: Represents a booking made by a user.
-    UserManager: Handles user registration and login operations.
-    BusManager: Manages bus-related operations like adding new buses and retrieving bus information.
-    BookingManager: Handles booking operations including making and retrieving bookings.
-    Database Connection: Ensure you have a class DatabaseConnection that handles the connection to your MySQL database.
-    BusReservationSystem: Compile all Java files and run the BusReservationSystem class.
+- **User**: Represents a user in the system.
+- **Bus**: Represents a bus in the system.
+- **Booking**: Represents a booking made by a user.
+- **UserManager**: Handles user registration and login operations.
+- **BusManager**: Manages bus-related operations like adding new buses and retrieving bus information.
+- **BookingManager**: Handles booking operations including making and retrieving bookings.
+- **DatabaseConnection**: Ensure you have a class DatabaseConnection that handles the connection to your MySQL database.
+- **BusReservationSystem**: Compile all Java files and run the BusReservationSystem class.
 
 ## Output
 
