@@ -28,6 +28,8 @@ The Bus Reservation System is a Java-based application that allows users to regi
 
 ## Output
 
-![ss1]()
-![ss2]()
-![ss3]()
+![ss1](SS1.png)
+
+![ss2](SS2.png)
+
+![ss3](SS3.png)
